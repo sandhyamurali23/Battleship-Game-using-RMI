@@ -1,2 +1,2 @@
 # Battleship-Game-using-RMI
-A two player battleship game is implemented using Remote Method Invocation. The main aim of the game is the destroy the fleet of the opponent.
+Designed a two player game where each player arranges their fleet of ships on the grid and takes alternate turns to destroy the fleet of the opponent using the MVC design pattern and communication.
